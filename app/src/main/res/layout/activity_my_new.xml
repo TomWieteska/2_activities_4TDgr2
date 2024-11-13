@@ -28,6 +28,6 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
-        android:textSize="15dp"/>
+        android:textSize="20dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
